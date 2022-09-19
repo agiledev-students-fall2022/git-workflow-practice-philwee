@@ -12,3 +12,5 @@ This article is interesting! Back in the CSO class we spent a lot of time learni
 #### Comment from Safal
 That's interesting. I never would have thought Python would someday be faster than C++. We already use Python in so many areas even though it's a bit slower. Now, with the speed, I can't imagine all the ways Python is going to be applied everywhere.
 
+## Comment from Nghia Nim
+I thought this was a troll article at first, given that we know how interpreted languages are much slower in comparison to compiled languages. After reading it, my first thought was "I knew it" :). Though a very entertaining article to read, I do find it incredible that the last two iterations of python improved so drastically in its runtime!
